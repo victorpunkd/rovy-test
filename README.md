@@ -1,3 +1,10 @@
+##Once you download the code please run `npm install` in the parent folder (the folder which contains package.json file), once the installation is complete run `npm start` to start the local server.
+
+A live version of the app can be access from here - 
+
+[Live_Link](http://rovy-test.s3-website.us-east-2.amazonaws.com/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
