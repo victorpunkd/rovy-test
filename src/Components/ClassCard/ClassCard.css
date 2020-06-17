@@ -1,0 +1,97 @@
+.classCardContainer {
+  background-color: white;
+  width: 100%;
+  padding: 10px 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.thumbnailImageContainer {
+  text-align: left;
+}
+
+.thumbnailImage {
+  width: 100px;
+  height: 100px;
+}
+
+.classInfoContainer {
+  text-align: left;
+  border-right: 1px solid gray;
+  height: 100%;
+}
+
+.classInfoHeading {
+  line-height: 22px;
+}
+
+.className {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.classTeacher {
+  color: gray;
+}
+
+.classInfoBody {
+  margin-top: 10px;
+  font-size: 10px;
+  font-weight: 500;
+}
+
+.classInfoFooter {
+  font-size: 10px;
+  margin-top: 15px;
+}
+
+.days {
+  margin-right: 5px;
+}
+
+.ticket {
+  padding-left: 10px;
+}
+
+.classType {
+  font-size: 8px;
+  margin-bottom: 10px;
+}
+
+.heading {
+  font-weight: 500;
+}
+
+.type {
+  font-weight: 500;
+  color: gray;
+}
+
+.button {
+  width: 100%;
+  background-color: #3e9358;
+  color: white;
+  border-radius: 5px;
+  border: 1px solid #3e9358;
+  padding: 5px 0px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.disabledButton {
+  width: 100%;
+  background-color: gray;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  padding: 5px 0px;
+  cursor: not-allowed;
+  transition: all 0.3s;
+}
+
+.button:hover {
+  transition: all 0.3s;
+  background-color: white;
+  border: 1px solid #3e9358;
+  color: #3e9358;
+}

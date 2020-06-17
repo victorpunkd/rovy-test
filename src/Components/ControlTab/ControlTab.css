@@ -1,0 +1,39 @@
+.controlTabContainer {
+  width: 100%;
+  padding: 20px 20px;
+  background-color: white;
+  border-radius: 5px;
+  text-align: left;
+}
+
+.headingControlTab {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.sectionContainer {
+  margin-top: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid gray;
+}
+
+.sectionHeading {
+  color: #c6305a;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.searchBox {
+  background-color: #f1f1f1;
+  border-radius: 5px;
+  width: 100%;
+  padding: 5px 5px;
+}
+
+.searchInputBox {
+  border: none;
+  background-color: transparent;
+  color: gray;
+  width: 80px;
+  margin-left: 10px;
+}
